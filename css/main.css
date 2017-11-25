@@ -2,3 +2,16 @@ body {
     font-family: 'Nunito', sans-serif;
     line-height: 1.5;
 }
+
+
+/* Media Queries */
+
+@media all and (min-width: 414px) {
+    #socialmedia {
+        visibility: hidden;
+    }
+
+    footer {
+        visibility: visible;
+    }
+}
