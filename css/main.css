@@ -32,6 +32,16 @@ p {
     text-align: center;
 }
 
+.bluegradient {
+    min-height: 150px;
+    position: relative;
+    background: linear-gradient(270deg, #2b90d9, #3cc5ee);
+    background-size: 400% 400%;
+    -webkit-animation: gradientanim 6s ease infinite;
+    animation: gradientanim 6s ease infinite;
+}
+
+
 /* Media Queries */
 
 #socialmediafooter {
