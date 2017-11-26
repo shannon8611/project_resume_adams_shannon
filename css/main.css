@@ -68,6 +68,24 @@ p {
     top: 100px;
 }
 
+#socialmedia ul,
+#socialmediafooter ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+#socialmedia ul li,
+#socialmediafooter ul li {
+    display: inline;
+    padding: 1em;
+}
+
+#socialmedia ul li img,
+#socialmediafooter ul li img {
+    width: 45px;
+    margin-top: 1em;
+}
 
 /* Media Queries */
 
