@@ -3,6 +3,7 @@
     display:inline-block;
     overflow:hidden;
     white-space: pre;
+    color:transparent;
 }
 .horizontal:before {
     display:block;
@@ -59,6 +60,7 @@
     display:inline-block;
     overflow:hidden;
     white-space: pre;
+    color: transparent;
 }
 .vertical:before {
     display:block;
@@ -69,7 +71,7 @@
     content: attr(data-content);
     overflow:hidden;
     pointer-events: none;
-    color: blue;
+    color: teal;
 }
 .vertical:after {
     display:block;
@@ -82,7 +84,7 @@
     content: attr(data-content);
     overflow:hidden;
     pointer-events: none;
-    color: #ffffff;
+    color: gray;
 }
 .vertical-tri {
     position:relative;
