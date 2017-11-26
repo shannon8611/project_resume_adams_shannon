@@ -3,10 +3,11 @@
 ## Links
 - [GitHub](https://github.com/shannon8611/project_resume_adams_shannon.git)
 - [Web Host](http://shannoneadams.com/project_resume)
+- [W3C Validator](https://jigsaw.w3.org/css-validator/validator?uri=www.shannoneadams.com%2Fproject_resume&profile=css3&usermedium=all&warning=1&vextwarning=&lang=en)
+- [HTML5 Outline](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fwww.shannoneadams.com%2Fproject_resume)
+
 
 ## Resources
-- [HTML Validator](https://validator.w3.org/)
-	- I used this to validate my HTML code and make sure there were no errors.
 - [freepik](http://www.freepik.com/)
 	- I used this site for obtaining stock illustrations and the social media icons.
 - [Google Fonts](https://www.google.com/fonts#)
