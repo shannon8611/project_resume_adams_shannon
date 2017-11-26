@@ -109,6 +109,15 @@ ul {
     display: table;
     margin: 0 auto;
 }
+
+.fp-tableCell {
+    vertical-align: top;
+}
+
+footer {
+    visibility: hidden;
+}
+
 /* Media Queries */
 
 #socialmediafooter {
