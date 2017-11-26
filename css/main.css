@@ -87,6 +87,28 @@ p {
     margin-top: 1em;
 }
 
+dl {
+    padding: 0, 1em, 1em, 1em;
+    margin-top: 0;
+    text-align: center;
+}
+
+dt {
+    font-size: 1.2em;
+}
+
+dd {
+    margin-left: 1em;
+}
+
+dd + dt {
+    margin-top: 1em;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+}
 /* Media Queries */
 
 #socialmediafooter {
