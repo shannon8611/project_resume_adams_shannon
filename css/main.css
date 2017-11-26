@@ -55,6 +55,20 @@ p {
     }
 }
 
+.nomarg {
+    margin-top: 0;
+}
+
+.profpic {
+    max-width: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    top: 100px;
+}
+
+
 /* Media Queries */
 
 #socialmediafooter {
